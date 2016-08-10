@@ -1,0 +1,2 @@
+# wddwallet
+WDD Multichain Wallet
